@@ -20,8 +20,8 @@ This simple shopping cart prototype shows how React with Typescript, React hooks
 - Node.js
 - NPM
 
-```javascript
-```
+
+
 
 
 
