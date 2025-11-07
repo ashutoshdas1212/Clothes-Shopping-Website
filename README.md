@@ -21,7 +21,7 @@ This simple shopping cart prototype shows how React with Typescript, React hooks
 - NPM
 
 ```javascript
-
+```
 
 
 
